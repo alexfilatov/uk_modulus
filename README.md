@@ -1,5 +1,11 @@
 # UkModulus
 
+[![Hex.pm](https://img.shields.io/hexpm/v/uk_modulus.svg)](https://hex.pm/packages/uk_modulus)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-blue.svg)](https://hexdocs.pm/uk_modulus)
+[![CI](https://github.com/alexfilatov/uk_modulus/actions/workflows/ci.yml/badge.svg)](https://github.com/alexfilatov/uk_modulus/actions/workflows/ci.yml)
+[![Hex.pm Downloads](https://img.shields.io/hexpm/dt/uk_modulus.svg)](https://hex.pm/packages/uk_modulus)
+[![License](https://img.shields.io/hexpm/l/uk_modulus.svg)](https://github.com/alexfilatov/uk_modulus/blob/main/LICENSE)
+
 UK bank account modulus checking for Elixir. Validates UK sort code and account number combinations using the official Vocalink algorithm.
 
 ## Features
